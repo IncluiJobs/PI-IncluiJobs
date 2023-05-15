@@ -8,15 +8,12 @@
 
 <h2>Tecnologias Utilizadas</h2>
 
-<ul>
-	<li>Java</li>
-	<li>Spring</li>
-	<li>MySQL</li>
-	<li>API Restful</li>
-	<li>HTML, CSS, JavaScript</li>
-</ul>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/>
 
 <h2>Participantes</h2>
+
 
 <ul>
 	<li><a href="https://github.com/alinesoglia">Aline Soglia</a></li>
