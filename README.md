@@ -30,4 +30,3 @@
 <p>Cada participante teve um papel fundamental na construção do projeto, contribuindo com sua experiência e conhecimento para a realização de um trabalho coletivo e de qualidade.</p>
 
 
-<p>Esse projeto é um trabalho feito para fins educacionais e não está aberto a contribuições externas no momento. No entanto, sinta-se à vontade para clonar o repositório e estudar o código fonte para aprendizado e prática.</p>
